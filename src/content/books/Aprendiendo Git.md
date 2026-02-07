@@ -1,48 +1,18 @@
-#
 ---
-image: "/El Nombre del Viento.png"
----
-
-# 📘 El nombre del viento
-
-Página de presentación de un libro disponible para la venta.
-
----
-
-## 📖 Información del Libro
-
-- **Título:** El nombre del viento  
-- **Autor:** Patrick Rothfuss  
-- **Género:** Fantasía épica  
-- **Formato:** Tapa blanda / Ebook  
-- **Idioma:** Español  
-- **Precio:** 19,99 €  
-
+title: El nombre del viento
+author: Patrick Rothfuss
+img: El-Nombre-del-Viento.png
+readtime: 880
+description: La historia de Kvothe, un músico prodigio y mago legendario, contada por él mismo.
+buy:
+  spain: https://www.amazon.es/dp/8401352831
+  usa: https://www.amazon.com/dp/0756404746
 ---
 
-## 📝 Descripción
+En una posada olvidada por el mundo, un hombre que se hace llamar Kote comienza a relatar su verdadera historia. No es un posadero cualquiera: es **Kvothe**, una figura envuelta en leyendas, canciones y rumores, conocida como mago, héroe y asesino de reyes.
 
-*El nombre del viento* es la primera entrega de **Crónica del asesino de reyes**.  
-La novela narra la vida de Kvothe, un músico prodigio con un pasado marcado por la tragedia, la magia y el misterio.
+A lo largo de estas páginas, Kvothe narra su infancia como miembro de una troupe de artistas itinerantes, la tragedia que marcó su vida y su llegada a la Universidad, donde el conocimiento, la música y la magia se entrelazan. **Su obsesión por los Chandrian y por descubrir el poder de los nombres verdaderos lo empuja siempre un paso más allá de lo permitido.**
 
-Una historia de aprendizaje, aventuras y leyendas contada por su propio protagonista.
+Patrick Rothfuss construye una historia donde el lenguaje importa, la música tiene peso propio y la magia no es un truco fácil, sino una disciplina exigente. **El nombre del viento no solo cuenta una aventura, sino cómo nacen los mitos y qué parte de ellos es verdad.**
 
----
-
-## 🛒 Compra
-
-Este libro está disponible para su compra a través de:
-
-- 🛍️ Tienda online
-- 📦 Envío a domicilio
-- 💳 Pago con tarjeta y métodos digitales
-
-> Para comprarlo, visita la página oficial o ponte en contacto con el vendedor.
-
----
-
-## 📸 Imágenes
-
-Las imágenes de portada y material promocional se encuentran en la carpeta `/images`.
-
----
+Este libro es el primer volumen de *Crónica del Asesino de Reyes*, una saga de fantasía que destaca por su prosa cuidada, su protagonista carismático y un mundo que se siente vivo incluso en los silencios.
