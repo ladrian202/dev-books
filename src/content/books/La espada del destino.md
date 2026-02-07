@@ -1,7 +1,7 @@
 ---
 title: La espada del destino
 author: Andrzej Sapkowski
-img: la-espada-del-destino.jpg
+img: La-espada-del-destino.png
 readtime: 400
 description: Relatos de monstruos, decisiones morales y un destino que siempre acaba encontrándote.
 buy:

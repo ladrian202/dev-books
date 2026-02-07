@@ -1,7 +1,7 @@
 ---
 title: El camino de los reyes
 author: Brandon Sanderson
-img: el-camino-de-los-reyes.jpg
+img: El-camino-de-los-reyes.png
 readtime: 1200
 description: El inicio de una épica colosal donde honor, poder y destino chocan en un mundo al borde del colapso.
 buy:

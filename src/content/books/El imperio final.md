@@ -1,7 +1,7 @@
 ---
 title: El imperio final
 author: Brandon Sanderson
-img: el-imperio-final.jpg
+img: El-imperio-final.png
 readtime: 700
 description: Un mundo dominado por la ceniza y un dios tirano, donde la esperanza es el mayor acto de rebeldía.
 buy:
